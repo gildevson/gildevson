@@ -1,5 +1,5 @@
 
-### Fala pessoal, tudo bem ? Meu nome é Gilson estou divulgando as ferramentas que aprende durante meus estudos.. 
+### Fala pessoal, tudo bem ? Meu nome é Gilson estou divulgando as ferramentas que aprendi durante meus estudos.. 
 
 ### Segue ai✋ 
 
