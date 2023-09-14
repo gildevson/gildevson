@@ -3,7 +3,7 @@
 
 ### Segue ai✋ 
 
-
+Contacts:
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-fonseca-78b6b4138/)  [![porfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com/in/gilson-fonseca-78b6b4138/) 
 
@@ -24,4 +24,4 @@
 </div> 
 
 
-### Qualquer duvida, pode me entrar em contato comigo no LinkeDIn
+
