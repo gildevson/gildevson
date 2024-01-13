@@ -1,5 +1,5 @@
 
-### Fala pessoal, tudo bem ? Meu nome é Gilson estou divulgando as ferramentas que aprendi durante meus estudos.. 
+###Olá pessoal, tudo bem? Quero compartilhar um pouco do meu perfil com vocês e contar que estou imerso no estudo de programação. Além disso, estou divulgando alguns projetos pessoais, frutos do meu esforço e autonomia. Fiquem à vontade para conhecer e comentar sobre o meu trabalho. Agradeço muito pelo apoio!
 
 ### Segue ai✋ 
 
