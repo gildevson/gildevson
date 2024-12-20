@@ -23,7 +23,6 @@ Vamos nos conectar? Aqui estão os links para você me encontrar:
 ## 🚀 Tecnologias e Ferramentas
 
 Aqui estão as tecnologias com as quais tenho experiência:
-https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
