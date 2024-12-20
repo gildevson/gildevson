@@ -9,7 +9,7 @@ Sejam muito bem-vindos ao meu perfil no GitHub! Aqui você encontrará projetos 
 Vamos nos conectar? Aqui estão os links para você me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-fonseca-78b6b4138/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]((https://portfoliogildevson.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliogildevson.netlify.app/)
 
 ---
 
