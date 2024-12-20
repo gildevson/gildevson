@@ -11,15 +11,13 @@ Vamos nos conectar? Aqui estão os links para você me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-fonseca-78b6b4138/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliogildevson.netlify.app/)
 
-
----
-![Gildevson GitHub stats](https://github-readme-stats.vercel.app/api?username=gildevson&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildevson&theme=blue-green)
-
-
 ## 🚀 Tecnologias e Ferramentas
 
 Aqui estão as tecnologias com as quais tenho experiência:
+
+---
+
+## 📊 Estatísticas do GitHub
 
 ---
 
@@ -35,6 +33,13 @@ Aqui estão as tecnologias com as quais tenho experiência:
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
+
+
+---
+![Gildevson GitHub stats](https://github-readme-stats.vercel.app/api?username=gildevson&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildevson&theme=blue-green)
+
+
 
 ## 📊 Estatísticas do GitHub
 
