@@ -46,4 +46,3 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Dedico meu tempo ao
 ---
 
 **Feito com ❤️ por [Gilson Fonseca](https://github.com/gildevson)**
-
