@@ -1,6 +1,6 @@
 # Olá, pessoal! Tudo bem? 👋
 
-Sejam muito bem-vindos ao meu perfil no GitHub! Aqui você encontrará projetos que refletem meu esforço e paixão por programação. Estou imerso em constantes estudos para me aprimorar e trazer ideias à vida. Fique à vontade para explorar, comentar e compartilhar seus pensamentos sobre o meu trabalho. Toda interação é muito bem-vinda! 🚀
+Sejam muito bem-vindos ao meu perfil no GitHub! Aqui você encontrará projetos que refletem meu esforço e paixão por programação. Estou constantemente me aprofundando em novos conhecimentos para transformar ideias em soluções reais. Fique à vontade para explorar, comentar e compartilhar seus pensamentos sobre o meu trabalho. Sua interação é muito importante! 🚀
 
 ---
 
@@ -11,15 +11,18 @@ Vamos nos conectar? Aqui estão os links para você me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-fonseca-78b6b4138/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliogildevson.netlify.app/)
 
-## 🚀 Tecnologias e Ferramentas
-
-Aqui estão as tecnologias com as quais tenho experiência:
-
 ---
 
 ## 📊 Estatísticas do GitHub
 
+![Gildevson GitHub stats](https://github-readme-stats.vercel.app/api?username=gildevson&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildevson&theme=blue-green)
+
 ---
+
+## 🚀 Tecnologias e Ferramentas
+
+Aqui estão as tecnologias e ferramentas com as quais tenho experiência e venho trabalhando:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -34,19 +37,12 @@ Aqui estão as tecnologias com as quais tenho experiência:
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
-
----
-![Gildevson GitHub stats](https://github-readme-stats.vercel.app/api?username=gildevson&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildevson&theme=blue-green)
-
-
-
-## 📊 Estatísticas do GitHub
-
 ---
 
 ## 🌟 Sobre Mim
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Dedico meu tempo ao aprendizado constante e à criação de projetos desafiadores. Meu foco é melhorar continuamente minhas habilidades e contribuir para a comunidade tech.
+Sou apaixonado por tecnologia e desenvolvimento de software. Dedico meu tempo ao aprendizado constante e à criação de projetos desafiadores. Meu foco é melhorar continuamente minhas habilidades e contribuir para a comunidade tech. Estou sempre aberto a novos desafios e oportunidades que possam expandir meu conhecimento e impacto.
 
 ---
+
+**Feito com ❤️ por [Gilson Fonseca](https://github.com/gildevson)**
