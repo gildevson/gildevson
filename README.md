@@ -5,7 +5,9 @@
 Sejam muito bem-vindos ao meu perfil no GitHub! Aqui você encontrará projetos que refletem meu esforço e paixão por programação. Estou imerso em constantes estudos para me aprimorar e trazer ideias à vida. Fique à vontade para explorar, comentar e compartilhar seus pensamentos sobre o meu trabalho. Toda interação é muito bem-vinda! 🚀
 
 ---
+## 🌟 Sobre Mim
 
+Sou apaixonado por tecnologia e desenvolvimento de software. Dedico meu tempo ao aprendizado constante e à criação de projetos desafiadores. Meu foco é melhorar continuamente minhas habilidades e contribuir para a comunidade tech.
 
 
 ## 🚀 Tecnologias e Ferramentas
@@ -42,10 +44,5 @@ Vamos nos conectar? Aqui estão os links para você me encontrar:
 
 ---
 
-## 🌟 Sobre Mim
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Dedico meu tempo ao aprendizado constante e à criação de projetos desafiadores. Meu foco é melhorar continuamente minhas habilidades e contribuir para a comunidade tech.
 
----
-
-**Feito com ❤️ por [Gilson Fonseca](https://github.com/gildevson)**
