@@ -13,6 +13,7 @@ Vamos nos conectar? Aqui estão os links para você me encontrar:
 
 ---
 ![Gildevson GitHub stats](https://github-readme-stats.vercel.app/api?username=gildevson&show_icons=true&theme=radical)
+![Gildevson GitHub stats](https://github-readme-stats.vercel.app/api?username=gildevson&show_icons=true&theme=radical)
 ## 🚀 Tecnologias e Ferramentas
 
 Aqui estão as tecnologias com as quais tenho experiência:
@@ -33,9 +34,6 @@ Aqui estão as tecnologias com as quais tenho experiência:
 </div>
 
 ## 📊 Estatísticas do GitHub
-
-![gildevops GitHub stats](https://github-readme-stats.vercel.app/api?username=gildevops&show_icons=true&theme=radical)
-
 
 ---
 
