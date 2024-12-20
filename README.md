@@ -1,24 +1,12 @@
 # Olá, pessoal! Tudo bem? 👋
 
+---
+
 Sejam muito bem-vindos ao meu perfil no GitHub! Aqui você encontrará projetos que refletem meu esforço e paixão por programação. Estou imerso em constantes estudos para me aprimorar e trazer ideias à vida. Fique à vontade para explorar, comentar e compartilhar seus pensamentos sobre o meu trabalho. Toda interação é muito bem-vinda! 🚀
 
 ---
 
-## 📬 Contatos
 
-Vamos nos conectar? Aqui estão os links para você me encontrar:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-fonseca-78b6b4138/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliogildevson.netlify.app/)
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Gildevson GitHub stats](https://github-readme-stats.vercel.app/api?username=gildevson&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildevson&theme=blue-green)
-
----
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -36,6 +24,21 @@ Aqui estão as tecnologias com as quais tenho experiência:
     <img align="center" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
     <img align="center" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
 </div>
+
+
+## 📬 Contatos
+
+Vamos nos conectar? Aqui estão os links para você me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-fonseca-78b6b4138/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliogildevson.netlify.app/)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Gildevson GitHub stats](https://github-readme-stats.vercel.app/api?username=gildevson&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildevson&theme=blue-green)
 
 ---
 
