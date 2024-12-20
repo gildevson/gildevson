@@ -3,7 +3,6 @@
 Sejam muito bem-vindos ao meu perfil no GitHub! Aqui você encontrará projetos que refletem meu esforço e paixão por programação. Estou imerso em constantes estudos para me aprimorar e trazer ideias à vida. Fique à vontade para explorar, comentar e compartilhar seus pensamentos sobre o meu trabalho. Toda interação é muito bem-vinda! 🚀
 
 ---
-
 ## 📬 Contatos
 
 Vamos nos conectar? Aqui estão os links para você me encontrar:
