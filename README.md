@@ -39,5 +39,3 @@ Aqui estão as tecnologias com as quais tenho experiência:
 Sou apaixonado por tecnologia e desenvolvimento de software. Dedico meu tempo ao aprendizado constante e à criação de projetos desafiadores. Meu foco é melhorar continuamente minhas habilidades e contribuir para a comunidade tech.
 
 ---
-
-**Feito com ❤️ por [Gilson Fonseca](https://github.com/gildevson)**
