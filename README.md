@@ -19,7 +19,7 @@ Vamos nos conectar? Aqui estão os links para você me encontrar:
 
 
 ---
-<img align="center" alt="Java" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"/>
+<img align="center" alt="Java" src="https://github-readme-stats.vercel.app/api/top-langs/?username={gildevson}&theme=blue-green"/>
 
 ## 🚀 Tecnologias e Ferramentas
 
