@@ -14,7 +14,6 @@ Vamos nos conectar? Aqui estão os links para você me encontrar:
 
 ---
 ![Gildevson GitHub stats](https://github-readme-stats.vercel.app/api?username=gildevson&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildevson&hide_progress=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildevson&theme=blue-green)
 
 
