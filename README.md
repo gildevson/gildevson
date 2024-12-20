@@ -13,18 +13,6 @@ Vamos nos conectar? Aqui estão os links para você me encontrar:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![gildevops GitHub stats](https://github-readme-stats.vercel.app/api?username=gildevops&show_icons=true&theme=radical)
-
-
----
-<img align="center" alt="Java" src="https://github-readme-stats.vercel.app/api/top-langs/?username={gildevson}&theme=blue-green"/>
-
-## 🚀 Tecnologias e Ferramentas
-
-Aqui estão as tecnologias com as quais tenho experiência:
-
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -37,6 +25,18 @@ Aqui estão as tecnologias com as quais tenho experiência:
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
+
+## 📊 Estatísticas do GitHub
+
+![gildevops GitHub stats](https://github-readme-stats.vercel.app/api?username=gildevops&show_icons=true&theme=radical)
+
+
+---
+<img align="center" alt="Java" src="https://github-readme-stats.vercel.app/api/top-langs/?username={gildevson}&theme=blue-green"/>
+
+## 🚀 Tecnologias e Ferramentas
+
+Aqui estão as tecnologias com as quais tenho experiência:
 
 ---
 
