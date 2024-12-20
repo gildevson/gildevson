@@ -27,20 +27,18 @@ Aqui estão as tecnologias com as quais tenho experiência:
     <img align="center" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
 </div>
 
+## 📊 Estatísticas do GitHub
 
+![Gildevson GitHub stats](https://github-readme-stats.vercel.app/api?username=gildevson&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildevson&theme=blue-green)
+
+---
 ## 📬 Contatos
 
 Vamos nos conectar? Aqui estão os links para você me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-fonseca-78b6b4138/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliogildevson.netlify.app/)
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Gildevson GitHub stats](https://github-readme-stats.vercel.app/api?username=gildevson&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildevson&theme=blue-green)
 
 ---
 
