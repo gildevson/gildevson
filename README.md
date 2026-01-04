@@ -124,6 +124,6 @@ Vamos nos conectar? Aqui estão os links para você me encontrar:
 
 ⭐ **Gostou do meu trabalho? Deixe uma estrela nos repositórios!**
 
-**Feito com ❤️ por [Gilson (gildevson)](https://github.com/gildevson)**
+**[Gilson (gildevson)](https://github.com/gildevson)**
 
 </div>
