@@ -44,6 +44,7 @@ Atualmente, estou aprofundando meus conhecimentos em **Angular**, **.NET** e **C
 ### 🗄️ Banco de Dados
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
     <img align="center" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
+    <img align="center" alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" height="60"/>
 </div>
 
 ### 🛠️ Ferramentas e Outros
