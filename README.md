@@ -90,7 +90,7 @@ Vamos nos conectar? Aqui estão os links para você me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-fonseca-78b6b4138/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliogildevson.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gildevson)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+
 
 </div>
 
@@ -100,11 +100,7 @@ Vamos nos conectar? Aqui estão os links para você me encontrar:
     <img src="https://komarev.com/ghpvc/?username=gildevson&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views"/>
 </div>
 
-<div align="center">
-    
-### 💡 *"A melhor maneira de prever o futuro é criá-lo."* - Peter Drucker
-
-</div>
+<
 
 ---
 
